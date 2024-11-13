@@ -1,0 +1,4 @@
+# .gitignore
+/pb_data
+*.db
+.DS_Store
