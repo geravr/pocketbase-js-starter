@@ -1,0 +1,5 @@
+# .gitignore
+/pb_data/*
+!/pb_data/types.d.ts
+*.db
+.DS_Store
